@@ -1,0 +1,5 @@
+name Extremely Tiny Map
+win 1
+########
+#EGEGEG#
+########
